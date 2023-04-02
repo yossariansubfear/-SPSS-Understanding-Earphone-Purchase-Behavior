@@ -14,7 +14,7 @@
    collect responses from the general public.  
 4. Next, the data collected in the previous stage was prepared for analysis with the help of editing, coding and transcribing. 
    Since the questions were in nominal scale, so the appropriate analysis technique followed them.  
-5. Three techniques were used for the process, Clustering, Annova and Chi-Squared tests and the results and findings of
+5. Three techniques were used for the process, **Clustering**, **Anova** and **Chi-Squared tests**, and the results and findings of
    the analysis process was correlated with each R.O. and then inferences were drawn, most of
    which stressed on the fact that most of the variables were independent in nature and there was
    less of a dependence relation between them. The report was subsequently compiled along with
