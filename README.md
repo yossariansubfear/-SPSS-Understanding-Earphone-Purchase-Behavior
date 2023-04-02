@@ -19,8 +19,3 @@ which stressed on the fact that most of the variables were independent in nature
 less of a dependence relation between them. The report was subsequently compiled along with
 the applicability and limitations for future research.
 
-### Management Objective:
-#### To determine the factors that influence the consumer purchase behaviour for a headphone/earphone
-
-### Research Objectives:
-#### 
