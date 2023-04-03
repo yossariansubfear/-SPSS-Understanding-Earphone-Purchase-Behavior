@@ -14,7 +14,7 @@
    the analysis process was correlated with each R.O. and then inferences were drawn, most of which stressed on the fact that most of the variables were      independent in nature and there was less of a dependence relation between them. The report was subsequently compiled along with the applicability and      limitations for future research.
 
 
-##Here are the final clusters that are used to form 4 segments:
+## Here are the final clusters that are used to form 4 segments:
 
 a) Casual Users:  
    
