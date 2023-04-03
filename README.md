@@ -18,16 +18,16 @@
 
 a) Casual Users:  
    
-   <img src="" width=50% height=50%>
+   <img src="/Earphone_cluster1.png" width=50% height=50%>
    
 b) Music Enthusiasts:  
    
-   <img src="" width=50% height=50%>
+   <img src="/Earphone_cluster2.png" width=50% height=50%>
    
 c) Circumstantial Users:  
 
-   <img src="" width=50% height=50%>
+   <img src="/Earphone_cluster3.png" width=50% height=50%>
    
 d) Orthodox Users:  
 
-   <img src="" width=50% height=50%>
+   <img src="/Earphone_cluster4.png" width=50% height=50%>
