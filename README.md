@@ -13,3 +13,21 @@
 5. **Analysis**: Three techniques were used for the process, **Clustering**, **Anova** and **Chi-Squared tests**, and the results and findings of
    the analysis process was correlated with each R.O. and then inferences were drawn, most of which stressed on the fact that most of the variables were      independent in nature and there was less of a dependence relation between them. The report was subsequently compiled along with the applicability and      limitations for future research.
 
+
+##Here are the final clusters that are used to form 4 segments:
+
+a) Casual Users:  
+   
+   <img src="" width=50% height=50%>
+   
+b) Music Enthusiasts:  
+   
+   <img src="" width=50% height=50%>
+   
+c) Circumstantial Users:  
+
+   <img src="" width=50% height=50%>
+   
+d) Orthodox Users:  
+
+   <img src="" width=50% height=50%>
